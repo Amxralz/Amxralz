@@ -2,16 +2,15 @@
 
 **`Desenvolvedor`**
 
-**Desenvolvendo em Back-End | Estudante de GTI**  
+**Desenvolvendo in Back-End | Estudante de GTI**  
 
 Olá! Meu nome é Guilherme, sou estudante de **Gestão da Tecnologia da Informação** e apaixonado por tecnologia e programação.  
-Atualmente, estou focado em **desenvolvimento back-end com Python** e tenho conhecimentos básicos em **C**.  
+Atualmente, estou focado e aprendendo **desenvolvimento back-end com Python** e tenho conhecimentos básicos em **C**.  
 Busco sempre evoluir minhas habilidades e explorar soluções inovadoras para problemas complexos.  
 
 💻 **Áreas de Desinvolvimento/Interesse:**  
 - Desenvolvimento Back-End  
-- Python 
-- Estrutura de Dados e Algoritmos  
+- Python  
 - Bancos de Dados  
 - Gestão de TI e Infraestrutura  
 
